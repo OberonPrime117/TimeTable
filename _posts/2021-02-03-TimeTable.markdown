@@ -15,4 +15,9 @@ Tutorial Info : MCQ via
 [LMS][lms-kjsce]
 <br>Portion : Differential Eqn & Integration
  
+ 
+`EP LAB == 15 FEB 12:20 PM`
+
+Van de Graff Generator Experiment
+
 [lms-kjsce]: https://lms-kjsce.somaiya.edu
