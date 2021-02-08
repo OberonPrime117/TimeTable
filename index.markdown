@@ -7,8 +7,4 @@ layout: "default"
 
 [TimeTable](https://oberonprime117.github.io/TimeTable/new)
 
-[Class](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-[Exam Pattern](https://www.youtube.com/watch?v=vTIIMJ9tUc8)
-
-[Exam Portion](https://www.youtube.com/watch?v=XbGs_qK2PQA)
+[Textbook Drive Link](https://drive.google.com/drive/folders/1ovn_ZHw4u65rboEvRD_j_IwmS-LWlJCr)
