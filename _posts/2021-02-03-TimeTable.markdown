@@ -18,6 +18,6 @@ Tutorial Info : MCQ via
  
 `EP LAB == 15 FEB 12:20 PM`
 
-Van de Graff Generator Experiment
+Van de Graff Generator Experiment via [LMS](https://lms-kjsce.somaiya.edu/mod/assign/view.php?id=20030)
 
 [lms-kjsce]: https://lms-kjsce.somaiya.edu
