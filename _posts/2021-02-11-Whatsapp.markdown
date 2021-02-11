@@ -1,6 +1,7 @@
 ---
 layout: "post"
-title:  "Whatsapp" 11:11:00 +0530
+title:  "Whatsapp" 
+date: 2021-02-011 11:11:00 +0530
 categories: jekyll update
 permalink: /whatsapp/
 ---
