@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "TimeTable" 11:11:00 +0530
+title:  "Whatsapp" 11:11:00 +0530
 categories: jekyll update
 permalink: /whatsapp/
 ---
