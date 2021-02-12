@@ -10,3 +10,5 @@ layout: "default"
 [Textbook Drive Link](https://drive.google.com/drive/folders/1ovn_ZHw4u65rboEvRD_j_IwmS-LWlJCr)
 
 [Whatsapp Groups](https://oberonprime117.github.io/TimeTable/whatsapp)
+
+[Elective Notes via Seniors](https://youtu.be/E-Cq06fegI4)
