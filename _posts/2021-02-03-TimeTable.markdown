@@ -8,13 +8,6 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
-
-`AM  === 10 FEB`
-
-Tutorial Info : MCQ via 
-[LMS][lms-kjsce]
-<br>Portion : Differential Eqn & Integration
- 
  
 `EP LAB == 15 FEB 12:20 PM`
 
