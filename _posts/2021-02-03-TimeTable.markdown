@@ -11,6 +11,8 @@ permalink: /new/
  
 `EP LAB == 15 FEB 12:20 PM`
 
-Van de Graff Generator Experiment via [LMS](https://lms-kjsce.somaiya.edu/mod/assign/view.php?id=20030)
+Optical Fibre Experiment via [LMS](https://lms-kjsce.somaiya.edu/)
+
+`EE Assignment`
 
 [lms-kjsce]: https://lms-kjsce.somaiya.edu
