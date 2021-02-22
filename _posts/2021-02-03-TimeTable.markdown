@@ -15,7 +15,7 @@ permalink: /new/
 Optical Fibre Experiment via [LMS](https://lms-kjsce.somaiya.edu/)
 
 
-`EE Assignment == 23 FEB 10:45 PM`
+`EE Assignment == 23 FEB 10:45 AM`
 
 
 Hollow Sphere Banao via [LMS](https://lms-kjsce.somaiya.edu/)
