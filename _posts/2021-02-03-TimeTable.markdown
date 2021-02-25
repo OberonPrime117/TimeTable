@@ -9,21 +9,24 @@ permalink: /new/
 <u><b>DOOMSDAY INCOMING 😈
 
  
-`EP LAB == 22 FEB 12:20 PM`
+`EP LAB == 1 MAR 11:59 PM`
 
+Differential Grating via [LMS](https://lms-kjsce.somaiya.edu/)
 
-Optical Fibre Experiment via [LMS](https://lms-kjsce.somaiya.edu/)
+`EM LAB == 3 MAR 11:59 PM`
 
+Elastic and Inelastic Collision Experiment 6
 
-`EE Assignment == 23 FEB 10:45 AM`
+`PP Python == 2 MAR 11:55 PM`
 
+Experiment 1 via LMS [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/49731/mod_assign/introattachment/0/PPLab_Experiment%20No.1_2021.docx?forcedownload=1)
 
-Hollow Sphere Banao via [LMS](https://lms-kjsce.somaiya.edu/)
+`PP Python == 9 MAR 3:24 PM`
 
+Experiment 2 via LMS [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/49732/mod_assign/introattachment/0/PPLab_Experiment%20No%202.docx?forcedownload=1)
 
-`EM LAB == 24 FEB 11:59 PM`
+`PP Python == 15 MAR 3:26 PM`
 
-Newton's Second Law via [LMS](https://lms-kjsce.somaiya.edu/)
-
+Experiment 3 via LMS [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/49733/mod_assign/introattachment/0/PPLab_Experiment%20No.3_2021.docx?forcedownload=1)
 
 [lms-kjsce]: https://lms-kjsce.somaiya.edu
