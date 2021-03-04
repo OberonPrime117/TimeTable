@@ -9,21 +9,6 @@ permalink: /new/
 <u><b>DOOMSDAY INCOMING 😈
 
  
-`CS LAB == 27 FEB`
-
-Group Discussion and Introductory Wala Fast Folks URGENT
-
-`EP LAB == 1 MAR 11:59 PM`
-
-Differential Grating via [LMS](https://lms-kjsce.somaiya.edu/)
-
-`PP Python == 2 MAR 11:55 PM`
-
-Experiment 1 via LMS [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/49731/mod_assign/introattachment/0/PPLab_Experiment%20No.1_2021.docx?forcedownload=1)
-
-`EM LAB == 3 MAR 11:59 PM`
-
-Elastic and Inelastic Collision Experiment 6
 
 `EE LAB == 5 MAR 3:15 PM`
 
