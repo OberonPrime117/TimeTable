@@ -22,6 +22,10 @@ Experiment Diff Grating Part 2 via LMS
 
 Experiment 2 via LMS [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/49732/mod_assign/introattachment/0/PPLab_Experiment%20No%202.docx?forcedownload=1)
 
+`EM LAB == 10 MAR 11:59 PM`
+
+Experiment 8 Ballistic via LMS
+
 `PP Python == 15 MAR 3:26 PM`
 
 Experiment 3 via LMS [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/49733/mod_assign/introattachment/0/PPLab_Experiment%20No.3_2021.docx?forcedownload=1)
