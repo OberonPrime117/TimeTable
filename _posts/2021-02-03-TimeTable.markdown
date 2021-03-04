@@ -16,7 +16,7 @@ Experiment Vehicle Banao - Tinkercad via LMS
 
 `EP LAB == 8 MAR 11:41 PM` 
 
-Experiment Diff Grating Part 2 via [lms-kjsce]
+Experiment Diff Grating Part 2 via LMS
 
 `PP Python == 9 MAR 3:24 PM`
 
@@ -26,5 +26,3 @@ Experiment 2 via LMS [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/497
 
 Experiment 3 via LMS [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/49733/mod_assign/introattachment/0/PPLab_Experiment%20No.3_2021.docx?forcedownload=1)
 
-
-[lms-kjsce]: https://lms-kjsce.somaiya.edu
