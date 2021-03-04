@@ -24,7 +24,7 @@ Experiment 2 via LMS [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/497
 
 `EM LAB == 10 MAR 11:59 PM`
 
-Experiment 8 Ballistic via LMS
+Experiment 8 Ballistic [Template](https://lms-kjsce.somaiya.edu/pluginfile.php/50189/mod_assign/introattachment/0/EM-Expt8-Feb-June-2021.docx?forcedownload=1)
 
 `PP Python == 15 MAR 3:26 PM`
 
