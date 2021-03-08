@@ -15,4 +15,4 @@ layout: "default"
 
 [Twitter Link For Courses](https://twitter.com/MIT_CSAIL/status/1353733114372087808?s=19)
 
-[Extra Class]((https://oberonprime117.github.io/TimeTable/extra)
+[Extra Class](https://oberonprime117.github.io/TimeTable/extra)
