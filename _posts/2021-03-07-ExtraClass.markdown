@@ -11,3 +11,8 @@ permalink: /extra/
 `12 MAR => 9:30 AM - EP Archana Ma'am`
 
 `13 MAR => 9 AM - EP Mani sir`
+
+`Every Saturday from 9.15am to 10.30 am (from 13th March onwards)`
+
+[Link to join Teams](https://teams.microsoft.com/l/team/19%3ad9cc50036e8e414282e92e704981bd4e%40thread.tacv2/conversations?groupId=86cf4bb8-7368-47a7-b065-ca0553259ac5&tenantId=a64aeab6-f01b-462b-aa9c-44546386ff31)
+
