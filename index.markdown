@@ -16,3 +16,5 @@ layout: "default"
 [Twitter Link For Courses](https://twitter.com/MIT_CSAIL/status/1353733114372087808?s=19)
 
 [Extra Class](https://oberonprime117.github.io/TimeTable/extra)
+
+[Link to H2 Students Teams](https://teams.microsoft.com/l/team/19%3abd033688cb9a4b329228a3970d00d8cf%40thread.tacv2/conversations?groupId=6654f73d-72a3-4da0-82d8-5998f1653aec&tenantId=a64aeab6-f01b-462b-aa9c-44546386ff31)
