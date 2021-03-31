@@ -8,13 +8,11 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
-EM Collision Ball - 31 March
-
 EP Experiment - 2nd April
 
-PP Experiment 4 and 5 - both due 31st March
-
 EE House of Quality - 13th April
+
+PP Question jo sir ne diya (Graded Activity wala) - 13th April
 
 OnScreen Test - 8th May 
 
