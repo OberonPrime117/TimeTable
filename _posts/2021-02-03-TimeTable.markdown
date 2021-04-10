@@ -15,7 +15,7 @@ Exposure Course Form - 12th April
 
 EE House of Quality - 13th April
 
-PP Question jo sir ne diya (Graded Activity wala) - 13th April
+PP Experiment 6 - 13th April
 
 EM Experiment 1 & 2 - 14th April
 
