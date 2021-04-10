@@ -12,7 +12,9 @@ ERA JOHRI Ma'am 's meeting - 6 April 5:15 [Link](https://meet.google.com/lookup/
 
 Proctor System Form Filling - before 9th April
 
-Python CRD - Tell your Mini Project ka topic
+Python CRD - Tell your Mini Project ka topic - 12th april
+
+Exposure Course Form - 12th April
 
 EE House of Quality - 13th April
 
