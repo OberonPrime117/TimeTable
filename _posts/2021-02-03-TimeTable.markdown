@@ -9,7 +9,7 @@ permalink: /new/
 <u><b>DOOMSDAY INCOMING 😈
 
 Python CRD - Tell your Mini Project ka topic - 12th april
-n
+
 Exposure Course Form - 12th April
 
 EE House of Quality - 13th April
