@@ -18,6 +18,8 @@ PP Experiment 6 - 13th April
 
 EM Experiment 1 & 2 - 14th April
 
+EP Experiment Planck Constant - 15 April
+
 EE Linkage Experiment - 16th April
 
 AM IA 1 - 20 April
