@@ -12,7 +12,7 @@ EP Experiment Planck Constant - 15 April
 
 EP `Extra Lecture` = 16th April 9:30
 
-EE Linkage Experiment - 16th April
+EE Linkage Experiment - 16th April 6:00 PM
 
 AM IA 1 - 20 April
 
