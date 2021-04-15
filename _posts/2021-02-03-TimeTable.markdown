@@ -8,17 +8,9 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
-Python CRD - Tell your Mini Project ka topic - 12th april
-
-Exposure Course Form - 12th April
-
-EE House of Quality - 13th April
-
-PP Experiment 6 - 13th April
-
-EM Experiment 1 & 2 - 14th April
-
 EP Experiment Planck Constant - 15 April
+
+EP `Extra Lecture` = 16th April 9:30
 
 EE Linkage Experiment - 16th April
 
