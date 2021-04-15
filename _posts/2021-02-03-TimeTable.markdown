@@ -16,5 +16,7 @@ EE Linkage Experiment - 16th April 6:00 PM
 
 AM IA 1 - 20 April
 
+EM Experiment 3 - 21 April
+
 OnScreen Test - 8th May 
 
