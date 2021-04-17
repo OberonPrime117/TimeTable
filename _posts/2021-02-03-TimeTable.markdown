@@ -12,5 +12,10 @@ AM IA 1 - 20 April
 
 EM Experiment 3 - 21 April
 
+`WORKSHOP` 24 April - Carpentry shop & Electrical wiring shop 
+
+`WORKSHOP` 30 April - Machine shop & Welding Shop 
+
+`WORKSHOP` 5 May - Fitting Shop & PCB
 OnScreen Test - 8th May 
 
