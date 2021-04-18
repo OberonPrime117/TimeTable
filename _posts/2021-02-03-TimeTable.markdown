@@ -10,7 +10,7 @@ permalink: /new/
 
 AM IA 1 - 20 April
 
-EM Experiment 3 - 21 April
+EM Experiment 3 - 21 April 11:59 PM
 
 `WORKSHOP` 24 April - Carpentry shop & Electrical wiring shop 
 
