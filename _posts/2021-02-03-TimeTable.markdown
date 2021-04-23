@@ -8,13 +8,9 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
-AM IA 1 - 20 April
-
-EM Experiment 3 - 21 April 11:59 PM
-
-`EXTRA CLASS` 22 April Thursday - AM TUT 
-
 `WORKSHOP` 24 April - Carpentry shop & Electrical wiring shop 
+
+CS Business Letter Writing - 25 April 6:00 PM
 
 EP Experiment 8 - 26 April 11:59 PM
 
