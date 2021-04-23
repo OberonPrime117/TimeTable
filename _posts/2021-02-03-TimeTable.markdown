@@ -14,6 +14,8 @@ CS Business Letter Writing - 25 April 6:00 PM
 
 EP Experiment 8 - 26 April 11:59 PM
 
+CS Speech Video Record Upload - 27 April 11:59 PM
+
 EM Experiment 4 - 28 April 11:59 PM
 
 `WORKSHOP` 30 April - Machine shop & Welding Shop 
