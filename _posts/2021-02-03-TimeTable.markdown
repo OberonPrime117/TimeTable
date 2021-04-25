@@ -16,6 +16,8 @@ EM Experiment 4 - 28 April 11:59 PM
 
 WORKSHOP 30 April - Machine shop & Welding Shop 
 
+AM TUT - Self Learning Topics : 30 April 11:59 PM
+
 WORKSHOP 5 May - Fitting Shop & PCB
 
 OnScreen Test - 8th May 
