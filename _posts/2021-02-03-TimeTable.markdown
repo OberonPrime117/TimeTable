@@ -30,4 +30,24 @@ OnScreen Test - 8th May
 
 3 May - 5 May : Presentation Upload of 10 slides (first and thank you slide excluded)
 
-17 May - 28 May : Present it to teachers
+17 May - 28 May : Present it to teachers (Q & A session)
+
+--- 26 April ---
+
+`EP` Experiment 8 : till 11:59 PM
+
+--- <b>27 April</b> ---
+
+<u>CS</u> Speech Recording Upload
+
+--- <b>28 April</b> ---
+
+<u>EM</u> Experiment 4 - till 11:59 PM
+
+--- <b>30 April</b> ---
+
+<u>WORKSHOP</u> Machine shop & Welding Shop
+
+<u>AM TUT</u> - Self Learning Topics till 11:59 PM
+
+<u>EM IA</u>
