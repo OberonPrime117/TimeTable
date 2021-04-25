@@ -8,7 +8,7 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
---- 26 April - 30 April ---
+--- 26 April to 30 April ---
 
 `EP IA` Tell Your Topics
 
@@ -32,7 +32,7 @@ permalink: /new/
 
 `EM IA`
 
---- 3 May - 5 May ---
+--- 3 May to 5 May ---
 
 `EP IA` - Presentation Upload of 10 slides (first and thank you slide excluded)
 
@@ -44,6 +44,6 @@ permalink: /new/
 
 `PP` - Onscreen Test 
 
---- 17 May - 28 May ---
+--- 17 May to 28 May ---
 
 `EP IA` - Present it to teachers (Q & A session)
