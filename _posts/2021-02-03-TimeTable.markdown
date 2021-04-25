@@ -10,19 +10,19 @@ permalink: /new/
 
 --- 26 April to 30 April ---
 
-`EP IA` Tell Your Topics
+`EP IA` - Tell Your Topics
 
 --- 26 April ---
 
-`EP` Experiment 8 : till 11:59 PM
+`EP` - Experiment 8 : till 11:59 PM
 
 --- 27 April ---
 
-`CS` Speech Recording Upload
+`CS` - Speech Recording Upload
 
 --- 28 April ---
 
-`EM` Experiment 4 - till 11:59 PM
+`EM` - Experiment 4 : till 11:59 PM
 
 --- 30 April ---
 
