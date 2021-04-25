@@ -8,42 +8,42 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
---- <b>26 April - 30 April</b> ---
+--- 26 April - 30 April ---
 
-` EP IA ` Tell Your Topics
+`EP IA` Tell Your Topics
 
---- <b>26 April</b> ---
+--- 26 April ---
 
-` EP ` Experiment 8 : till 11:59 PM
+`EP` Experiment 8 : till 11:59 PM
 
---- <b>27 April</b> ---
+--- 27 April ---
 
-` CS ` Speech Recording Upload
+`CS` Speech Recording Upload
 
---- <b>28 April</b> ---
+--- 28 April ---
 
-` EM ` Experiment 4 - till 11:59 PM
+`EM` Experiment 4 - till 11:59 PM
 
---- <b>30 April</b> ---
+--- 30 April ---
 
-` WORKSHOP ` Machine shop & Welding Shop
+`WORKSHOP` Machine shop & Welding Shop
 
-` AM TUT ` - Self Learning Topics till 11:59 PM
+`AM TUT` - Self Learning Topics till 11:59 PM
 
-` EM IA `
+`EM IA`
 
---- <b>3 May - 5 May</b> ---
+--- 3 May - 5 May ---
 
-` EP ` - Presentation Upload of 10 slides (first and thank you slide excluded)
+`EP` - Presentation Upload of 10 slides (first and thank you slide excluded)
 
---- <b>5 May</b> ---
+--- 5 May ---
 
-` WORKSHOP ` - Fitting Shop & PCB
+`WORKSHOP` - Fitting Shop & PCB
 
---- <b>8 May</b> ---
+--- 8 May ---
 
-` PP ` - Onscreen Test 
+`PP` - Onscreen Test 
 
---- <b>17 May - 28 May</b> ---
+--- 17 May - 28 May ---
 
-` EP ` - Present it to teachers (Q & A session)
+`EP` - Present it to teachers (Q & A session)
