@@ -28,6 +28,6 @@ OnScreen Test - 8th May
 
 30 April ko IA of EM
 
-3 May - 5 May : Presentation Upload
+3 May - 5 May : Presentation Upload of 10 slides (first and thank you slide excluded)
 
 17 May - 28 May : Present it to teachers
