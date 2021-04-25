@@ -26,7 +26,7 @@ permalink: /new/
 
 --- 30 April ---
 
-`WORKSHOP` Machine shop & Welding Shop
+`WORKSHOP` - Machine shop & Welding Shop
 
 `AM TUT` - Self Learning Topics till 11:59 PM
 
