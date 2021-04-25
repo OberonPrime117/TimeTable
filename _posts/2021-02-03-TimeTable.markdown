@@ -34,7 +34,7 @@ permalink: /new/
 
 --- 3 May - 5 May ---
 
-`EP` - Presentation Upload of 10 slides (first and thank you slide excluded)
+`EP IA` - Presentation Upload of 10 slides (first and thank you slide excluded)
 
 --- 5 May ---
 
@@ -46,4 +46,4 @@ permalink: /new/
 
 --- 17 May - 28 May ---
 
-`EP` - Present it to teachers (Q & A session)
+`EP IA` - Present it to teachers (Q & A session)
