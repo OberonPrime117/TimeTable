@@ -8,46 +8,42 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
-EP Experiment 8 - 26 April 11:59 PM
+--- <b>26 April - 30 April</b> ---
 
-CS Speech Video Record Upload - 27 April 11:59 PM
+` EP IA ` Tell Your Topics
 
-EM Experiment 4 - 28 April 11:59 PM
+--- <b>26 April</b> ---
 
-WORKSHOP 30 April - Machine shop & Welding Shop 
-
-AM TUT - Self Learning Topics : 30 April 11:59 PM
-
-WORKSHOP 5 May - Fitting Shop & PCB
-
-OnScreen Test - 8th May 
-
-`IA ka MAHASANGRAM`
-
-26 to 30 April - tell topics of EP IA-1
-
-30 April ko IA of EM
-
-3 May - 5 May : Presentation Upload of 10 slides (first and thank you slide excluded)
-
-17 May - 28 May : Present it to teachers (Q & A session)
-
---- 26 April ---
-
-`EP` Experiment 8 : till 11:59 PM
+` EP ` Experiment 8 : till 11:59 PM
 
 --- <b>27 April</b> ---
 
-<u>CS</u> Speech Recording Upload
+` CS ` Speech Recording Upload
 
 --- <b>28 April</b> ---
 
-<u>EM</u> Experiment 4 - till 11:59 PM
+` EM ` Experiment 4 - till 11:59 PM
 
 --- <b>30 April</b> ---
 
-<u>WORKSHOP</u> Machine shop & Welding Shop
+` WORKSHOP ` Machine shop & Welding Shop
 
-<u>AM TUT</u> - Self Learning Topics till 11:59 PM
+` AM TUT ` - Self Learning Topics till 11:59 PM
 
-<u>EM IA</u>
+` EM IA `
+
+--- <b>3 May - 5 May</b> ---
+
+` EP ` - Presentation Upload of 10 slides (first and thank you slide excluded)
+
+--- <b>5 May</b> ---
+
+` WORKSHOP ` - Fitting Shop & PCB
+
+--- <b>8 May</b> ---
+
+` PP ` - Onscreen Test 
+
+--- <b>17 May - 28 May</b> ---
+
+` EP ` - Present it to teachers (Q & A session)
