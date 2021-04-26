@@ -42,7 +42,7 @@ permalink: /new/
 
 --- 8 May ---
 
-`PP` - Onscreen Test 
+`PP` - Onscreen Test @ 10:30 to 11:45 + 20 for uploading
 
 --- 17 May to 28 May ---
 
