@@ -12,10 +12,6 @@ permalink: /new/
 
 `EP IA` - Tell Your Topics
 
---- 26 April ---
-
-`EP` - Experiment 8 : till 11:59 PM
-
 --- 27 April ---
 
 `CS` - Speech Recording Upload
