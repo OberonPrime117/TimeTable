@@ -28,7 +28,7 @@ permalink: /new/
 
 --- 1 May ---
 
-`EM IA`
+`EM IA` - 4:30 PM to 4:50 PM
 
 `PP` - Extra Lecture @ 11 AM to 1 PM
 
