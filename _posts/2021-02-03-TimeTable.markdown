@@ -30,6 +30,8 @@ permalink: /new/
 
 `EM IA` - 4:30 PM to 4:50 PM
 
+`AM TUT` - TUT 8 Submission
+
 `PP` - Extra Lecture @ 11 AM to 1 PM
 
 --- 3 May to 5 May ---
