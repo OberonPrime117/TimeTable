@@ -26,6 +26,8 @@ permalink: /new/
 
 `AM TUT` - Self Learning Topics till 11:59 PM
 
+--- 1 May ---
+
 `EM IA`
 
 --- 3 May to 5 May ---
