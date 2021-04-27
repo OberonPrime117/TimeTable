@@ -30,6 +30,8 @@ permalink: /new/
 
 `EM IA`
 
+`PP` - Extra Lecture @ 11 AM to 1 PM
+
 --- 3 May to 5 May ---
 
 `EP IA` - Presentation Upload of 10 slides (first and thank you slide excluded)
