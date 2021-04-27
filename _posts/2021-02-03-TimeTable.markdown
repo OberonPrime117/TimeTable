@@ -51,3 +51,7 @@ permalink: /new/
 --- 17 May ---
 
 `PP` - Mini Project Presentation 
+
+--- 20 May ---
+
+`ET` - Mini Project
