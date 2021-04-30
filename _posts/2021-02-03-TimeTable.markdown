@@ -8,18 +8,6 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
---- 26 April to 30 April ---
-
-`EP IA` - Tell Your Topics
-
---- 27 April ---
-
-`CS` - Speech Recording Upload
-
---- 28 April ---
-
-`EM` - Experiment 4 : till 11:59 PM
-
 --- 30 April ---
 
 `WORKSHOP` - Machine shop & Welding Shop
