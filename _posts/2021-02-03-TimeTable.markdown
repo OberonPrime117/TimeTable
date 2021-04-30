@@ -20,7 +20,7 @@ permalink: /new/
 
 `AM TUT` - TUT 8 Submission
 
-`PP` - Extra Lecture @ 11 AM to 1 PM
+`PP` - Extra Lecture @ 11:30 AM to 1 PM [Meeting Link](https://zoom.us/j/98831966868?pwd=NWJOZ1VxR1dIUllQelUwV0UrTFhNdz09)
 
 --- 3 May ---
 
