@@ -8,18 +8,6 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
---- 30 April ---
-
-`WORKSHOP` - Machine shop & Welding Shop
-
-`AM TUT` - Self Learning Topics till 11:59 PM
-
---- 1 May ---
-
-`EM IA` - 4:30 PM to 4:50 PM
-
-`PP` - Extra Lecture @ 11:30 AM to 1 PM [Meeting Link](https://zoom.us/j/98831966868?pwd=NWJOZ1VxR1dIUllQelUwV0UrTFhNdz09)
-
 --- 3 May ---
 
 `PP` - Experiment 7 Inheritance 11:55 PM
