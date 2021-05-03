@@ -12,13 +12,13 @@ permalink: /new/
 
 `PP` - Experiment 7 Inheritance 11:55 PM
 
---- 3 May to 5 May ---
-
-`EP IA` - Presentation Upload of 10 slides (first and thank you slide excluded)
-
 --- 5 May ---
 
 `WORKSHOP` - Fitting Shop & PCB
+
+--- 7 May ---
+
+`EP IA` - Presentation Upload
 
 --- 8 May ---
 
@@ -28,10 +28,6 @@ permalink: /new/
 
 `EP` - Experiment Hall Effect 6:18 PM
 
---- 17 May to 28 May ---
-
-`EP IA` - Present it to teachers (Q & A session)
-
 --- 17 May ---
 
 `PP` - Mini Project Presentation
@@ -39,3 +35,7 @@ permalink: /new/
 --- 20 May ---
 
 `ET` - Mini Project
+
+--- 17 May to 28 May ---
+
+`EP IA` - Present it to teachers (Q & A session)
