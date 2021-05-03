@@ -1,7 +1,7 @@
 ---
 layout: "post"
-title:  "TimeTable"
-date:   2021-02-03 23:00:00 +0530
+title: "TimeTable"
+date: 2021-02-03 23:00:00 +0530
 categories: jekyll update
 permalink: /new/
 ---
@@ -24,13 +24,17 @@ permalink: /new/
 
 `PP` - Onscreen Test @ 10:30 to 11:45 + 20 for uploading
 
+--- 10 May ---
+
+`EP` - Experiment Hall Effect 6:18 PM
+
 --- 17 May to 28 May ---
 
 `EP IA` - Present it to teachers (Q & A session)
 
 --- 17 May ---
 
-`PP` - Mini Project Presentation 
+`PP` - Mini Project Presentation
 
 --- 20 May ---
 
