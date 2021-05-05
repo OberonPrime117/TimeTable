@@ -28,9 +28,17 @@ permalink: /new/
 
 `EP` - Experiment Hall Effect 6:18 PM
 
+--- 12 May ---
+
+`PP` - Experiment 8 , 2:49 PM
+
 --- 17 May ---
 
 `PP` - Mini Project Presentation
+
+--- 19 May ---
+
+`PP` - Experiment 9 , 2:50 PM
 
 --- 20 May ---
 
