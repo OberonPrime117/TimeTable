@@ -36,6 +36,8 @@ permalink: /new/
 
 `PP` - Mini Project Presentation
 
+`EP` - Experiment 10 SELF LEARN WALA
+
 --- 19 May ---
 
 `PP` - Experiment 9 , 2:50 PM
