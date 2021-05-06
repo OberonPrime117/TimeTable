@@ -8,14 +8,6 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
---- 3 May ---
-
-`PP` - Experiment 7 Inheritance 11:55 PM
-
---- 5 May ---
-
-`WORKSHOP` - Fitting Shop & PCB
-
 --- 8 May ---
 
 `PP` - Onscreen Test @ 10:30 to 11:45 + 20 for uploading
