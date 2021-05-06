@@ -16,13 +16,13 @@ permalink: /new/
 
 `WORKSHOP` - Fitting Shop & PCB
 
---- 7 May ---
-
-`EP IA` - Presentation Upload
-
 --- 8 May ---
 
 `PP` - Onscreen Test @ 10:30 to 11:45 + 20 for uploading
+
+--- 9 May --- 
+
+`EP IA` - Presentation Upload
 
 --- 10 May ---
 
