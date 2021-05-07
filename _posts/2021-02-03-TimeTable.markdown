@@ -12,6 +12,8 @@ permalink: /new/
 
 `PP` - Onscreen Test @ 10:30 to 11:45 + 20 for uploading
 
+`ORIENTATION SY III` - @12:15 PM [Link](https://somaiya-edu.zoom.us/j/95208821552?pwd=Z1M0dHFFdzBuYVZGT2hwUFhiN2NXUT09)
+
 --- 9 May --- 
 
 `EP IA` - Presentation Upload
