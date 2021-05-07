@@ -26,6 +26,10 @@ permalink: /new/
 
 `EM` - Experiment
 
+--- 15 May ---
+
+`EE` - Arduino LED & Switch
+
 --- 17 May ---
 
 `PP` - Mini Project Presentation
