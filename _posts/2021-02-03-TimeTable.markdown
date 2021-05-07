@@ -28,6 +28,8 @@ permalink: /new/
 
 `EM` - Experiment 9 Moment Of Inertia of Flywheel
 
+`AM` - Tutorial on Double Integration
+
 --- 15 May ---
 
 `EE` - Arduino LED & Switch
