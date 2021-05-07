@@ -24,7 +24,7 @@ permalink: /new/
 
 `PP` - Experiment 8 , 2:49 PM
 
-`EM` - Experiment
+`EM` - Experiment 9 Moment Of Inertia of Flywheel
 
 --- 15 May ---
 
