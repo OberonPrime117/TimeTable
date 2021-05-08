@@ -8,12 +8,6 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
---- 8 May ---
-
-`PP` - Onscreen Test @ 10:30 to 11:45 + 20 for uploading
-
-`ORIENTATION SY III` - @12:15 PM [Link](https://somaiya-edu.zoom.us/j/95208821552?pwd=Z1M0dHFFdzBuYVZGT2hwUFhiN2NXUT09)
-
 --- 9 May --- 
 
 `EP IA` - Presentation Upload
@@ -29,6 +23,10 @@ permalink: /new/
 `EM` - Experiment 9 Moment Of Inertia of Flywheel
 
 `AM` - Tutorial on Double Integration
+
+--- 13 May ---
+
+FILL THE FORM OF CHOICE : PROGRAMMING LAB [link](https://docs.google.com/forms/d/e/1FAIpQLSen_8OFtK43pQoJUW_8wLwL_DfPf3E3UZfzS9e4O4KbYX6gvg/viewform?usp=sf_link) 
 
 --- 15 May ---
 
@@ -47,6 +45,10 @@ permalink: /new/
 --- 20 May ---
 
 `ET` - Mini Project
+
+--- 21 May ---
+
+`EM` - IA 2  
 
 --- 17 May to 28 May ---
 
