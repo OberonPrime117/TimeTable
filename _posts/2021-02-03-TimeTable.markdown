@@ -32,9 +32,11 @@ FILL THE FORM OF CHOICE : PROGRAMMING LAB [link](https://docs.google.com/forms/d
 
 `EE` - Arduino LED & Switch
 
---- 17 May ---
+--- 17 May to 28 May ---
 
-`PP` - Mini Project Presentation
+`EP IA` - Present it to teachers (Q & A session)
+
+--- 17 May ---
 
 `EP` - Experiment 10 SELF LEARN WALA
 
@@ -50,8 +52,9 @@ FILL THE FORM OF CHOICE : PROGRAMMING LAB [link](https://docs.google.com/forms/d
 
 `EM` - IA 2  
 
---- 17 May to 28 May ---
+--- 26 May --- 
 
-`EP IA` - Present it to teachers (Q & A session)
+`PP` - Mini Project Presentation 1:15 to 3:15 PM
+
 
 [Back to HomeScreen](https://oberonprime117.github.io/TimeTable/)
