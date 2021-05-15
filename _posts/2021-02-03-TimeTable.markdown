@@ -32,6 +32,10 @@ permalink: /new/
 
 `EM` - IA 2  
 
+--- 22 May ---
+
+`EP` - Special Lecture @ 5 PM , remedial lecture teams 
+
 --- 26 May --- 
 
 `PP` - Mini Project Presentation 1:15 to 3:15 PM
