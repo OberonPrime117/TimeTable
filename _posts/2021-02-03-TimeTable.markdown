@@ -8,18 +8,6 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
---- 15 May ---
-
-`EE` - Arduino LED & Switch
-
---- 17 May to 28 May ---
-
-`EP IA` - Present it to teachers (Q & A session)
-
---- 17 May ---
-
-`EP` - Experiment 10 SELF LEARN WALA
-
 --- 19 May ---
 
 `PP` - Experiment 9 , 2:50 PM
@@ -35,6 +23,10 @@ permalink: /new/
 --- 22 May ---
 
 `EP` - Special Lecture @ 5 PM , remedial lecture teams 
+
+--- 24 May ---
+
+`EP` - IA Presentations for the Second Half
 
 --- 26 May --- 
 
