@@ -24,6 +24,8 @@ permalink: /new/
 
 `EP` - Special Lecture @ 5 PM , remedial lecture teams 
 
+`pp` - Extra Session 10:30 - 11:30, 11:30 - 12:30, 12:30 - 1 
+
 --- 24 May ---
 
 `EP` - IA Presentations for the Second Half
