@@ -28,5 +28,8 @@ permalink: /new/
 
 `EM` - Experiment 10 Compound Pendulum @ 11:59 PM
 
+--- 29 May ---
+
+`AM` - IA-2 4:00 TO 5:00 
 
 [Back to HomeScreen](https://oberonprime117.github.io/TimeTable/)
