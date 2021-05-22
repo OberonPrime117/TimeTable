@@ -16,7 +16,11 @@ permalink: /new/
 
 `EP` - Special Lecture @ 4:45 PM , remedial lecture teams [link](https://somaiya-edu.zoom.us/j/91576092125?pwd=Q0wvaVZwb29BcTZqdnhlSStTUEY4QT09)
 
-`pp` - Extra Session 10:30 - 11:30, 11:30 - 12:30, 12:30 - 1 
+`PP` - Extra Session 10:30 - 11:30, 11:30 - 12:30, 12:30 - 1 
+
+--- 23 May ---
+
+`EE` - Problem Statement & Submission of Gantt Chart
 
 --- 24 May ---
 
@@ -27,6 +31,14 @@ permalink: /new/
 `PP` - Mini Project Presentation 1:15 to 3:15 PM
 
 `EM` - Experiment 10 Compound Pendulum @ 11:59 PM
+
+--- 27 May ---
+
+`EE` - Concept Diagrams / Structure
+
+--- 28 May ---
+
+`EE` - Simulation of Control
 
 --- 29 May ---
 
