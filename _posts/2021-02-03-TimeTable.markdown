@@ -16,6 +16,10 @@ permalink: /new/
 
 `EP` - IA Presentations for the Second Half
 
+--- 25 May ---
+
+`PP` - Code submission (PDF) & PPT submission @ 11:00 PM 
+
 --- 26 May --- 
 
 `PP` - Mini Project Presentation 1:15 to 3:15 PM
