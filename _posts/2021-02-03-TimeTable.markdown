@@ -8,24 +8,6 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
---- 23 May ---
-
-`EE` - Problem Statement & Submission of Gantt Chart
-
---- 24 May ---
-
-`EP` - IA Presentations for the Second Half
-
---- 25 May ---
-
-`PP` - Code submission (PDF) & PPT submission @ 11:00 PM 
-
---- 26 May --- 
-
-`PP` - Mini Project Presentation 1:15 to 3:15 PM
-
-`EM` - Experiment 10 Compound Pendulum @ 11:59 PM
-
 --- 27 May ---
 
 `EE` - Concept Diagrams / Structure
@@ -37,5 +19,9 @@ permalink: /new/
 --- 29 May ---
 
 `AM` - IA-2 4:00 TO 5:00 
+
+--- 3 June ---
+
+`EE` - Video + PPT for the project
 
 [Back to HomeScreen](https://oberonprime117.github.io/TimeTable/)
