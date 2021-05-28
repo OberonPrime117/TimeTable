@@ -8,19 +8,15 @@ permalink: /new/
 
 <u><b>DOOMSDAY INCOMING 😈
 
---- 27 May ---
-
-`EE` - Concept Diagrams / Structure
-
---- 28 May ---
-
-`EE` - Simulation of Control
-
 --- 29 May ---
 
 `AM` - IA-2 4:00 TO 5:00 
 
---- 3 June ---
+--- 30 May ---
+
+`EC` - Chess Tournament
+
+--- 4 June ---
 
 `EE` - Video + PPT for the project
 
